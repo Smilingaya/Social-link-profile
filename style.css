@@ -47,7 +47,7 @@ img{
     margin: 20px auto;
     scale: 1;
     box-shadow: 0 0 5px var(--cyan),
-    0 0 25px var(--cyan), 0 0 50px var(--cyan)
+    0 0 25px var(--cyan), 0 0 50px var(--cyan),
     0 0 100px var(--cyan),0 0 200px var(--cyan);
     
 }
